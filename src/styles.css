@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+header{
+  background-color: aqua;
+}
+footer{
+  padding-top: 5mm;
+  box-sizing: border-box;
+  background-color: aquamarine;
+}
